@@ -72,7 +72,7 @@ Estudante de Sistemas de Informação, com interesse em Desenvolvimento de Softw
 
 ## 📸 Preview
 
-![Preview do DevLucas Login](foto-149978641499396-d31630d0046ba.avif)
+![Preview do DevLucas Login](photo-1497864149936-d3163f0c0f4b.avif)
 
 ⸻
 
