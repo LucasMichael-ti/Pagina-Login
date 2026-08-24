@@ -73,8 +73,9 @@ Estudante de Sistemas de Informação, com interesse em Desenvolvimento de Softw
 ## 📸 Preview
 
 
-![Preview do DevLucas Login](<img width="1915" height="1042" alt="Captura de tela 2026-08-23 225706" src="https://github.com/user-attachments/assets/a0b0a53d-1b4b-4cae-9510-7512a6ba2ef0" />
-)
+
+![Preview do DevLucas Login](![Uploading Captura de tela 2026-08-23 225706.png…]()
+
 
 ⸻
 
