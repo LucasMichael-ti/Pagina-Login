@@ -70,6 +70,10 @@ Estudante de Sistemas de Informação, com interesse em Desenvolvimento de Softw
 🔗 LinkedIn www.linkedin.com/in/lucasmichaelti
 💻 GitHub 
 
+## 📸 Preview
+
+![Preview do DevLucas Login](foto-149978641499396-d31630d0046ba.avif)
+
 ⸻
 
 ⭐ Se você gostou do projeto, considere deixar uma estrela no repositório!
